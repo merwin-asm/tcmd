@@ -1,6 +1,8 @@
 
 # Tcmd 
 
+<img src="https://komarev.com/ghpvc/?username=merwin-tcmd&label=Project%20Views-Github&color=0e75b6&style=flat" alt="darkmash-org" /> 
+
 ### About 
 Tcmd stands for top commands. This tool can be used to see the most used commands. The tool was written in python3 and is pretty simple. It can be downloaded from pypi. 
 
