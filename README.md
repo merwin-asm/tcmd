@@ -1,6 +1,7 @@
 
 # Tcmd 
 
+[![Downloads](https://static.pepy.tech/badge/tcmd)](https://pepy.tech/project/tcmd)
 <img src="https://komarev.com/ghpvc/?username=merwin-tcmd&label=Project%20Views-Github&color=0e75b6&style=flat" alt="darkmash-org" /> 
 
 ### About 
